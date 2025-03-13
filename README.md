@@ -8,16 +8,16 @@ Principales características de los Hoaxes
 
 Títulos impactantes: Emplean encabezados llamativos o emotivos para captar la atención y provocar una reacción inmediata.
 
-Falta de fuentes verificables: Generalmente, omiten referencias a medios de comunicación confiables o citan información falsa.
+Falta de fuentes verificables: Generalmente omiten referencias a medios de comunicación confiables o citan información falsa.
 
 Incentivo a la viralización: Suelen incluir frases que incitan a compartir el contenido rápidamente.
 
-Distorsión de información: Presentan datos sacados de contexto, imágenes editadas o testimonios manipulados.
+Distorsión de información: Presentan datos sacados de contexto, imágenes editadas o testimonios falsos.
 
 Ejemplos comunes de Hoaxes
 
-Noticias falsas sobre salud: Afirman la existencia de curas milagrosas o peligros inexistentes relacionados con tratamientos médicos.
+Noticias falsas sobre salud: Afirman la existencia de curas milagrosas o peligros que no existen relacionados con tratamientos médicos.
 
-Engaños políticos: Información alterada con la intención de influenciar la opinión pública en campañas electorales o sobre figuras gubernamentales.
+Engaños políticos: Información manipulada con la intención de influenciar la opinión pública en campañas electorales o sobre figuras gubernamentales.
 
 Fraudes tecnológicos: Advertencias sobre virus informáticos inexistentes o amenazas falsas sobre el uso de dispositivos digitales.
