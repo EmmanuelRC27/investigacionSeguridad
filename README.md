@@ -1,6 +1,7 @@
 # investigacionSeguridad
 
 Concepto de Hoax
+
 Un hoax es un tipo de engaño que se propaga ampliamente, principalmente a través de plataformas digitales como redes sociales, correos electrónicos y aplicaciones de mensajería. Su propósito puede ser desinformar, alarmar a la población o manipular la percepción de un tema en particular.
 
 Principales características de los Hoaxes
